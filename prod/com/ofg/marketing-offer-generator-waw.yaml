@@ -1,0 +1,7 @@
+metrics.path:
+  country: waw
+  app: marketing-offer-generator-waw
+	
+server:
+  port: 8056
+

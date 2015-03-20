@@ -1,0 +1,7 @@
+metrics.path:
+  country: waw
+  app: loan-application-service-waw
+	
+server:
+  port: 8054
+

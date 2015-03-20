@@ -1,0 +1,7 @@
+metrics.path:
+  country: lodz
+  app: loan-application-decision-maker-lodz
+	
+server:
+  port: 9055
+
