@@ -1,7 +1,7 @@
 metrics.path:
   country: waw
   app: fraud-detection-service-waw
-	
+
 server:
   port: 8053
 
