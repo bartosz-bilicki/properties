@@ -7,5 +7,9 @@ city.finding.service.url: "http://api.openweathermap.org/data/2.5/weather"
 
 request.payload.logging.maxlength: 2000
 
+metrics:
+  path:
+    environment: prod
+
 graphite:
   host: graphite.uservices.pl
