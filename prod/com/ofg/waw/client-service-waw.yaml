@@ -1,7 +1,7 @@
 metrics.path:
   country: waw
   app: client-service-waw
-	
+
 server:
   port: 8058
 
