@@ -1,7 +1,0 @@
-metrics.path:
-  country: waw
-  app: reporting-service-waw
-	
-server:
-  port: 8057
-

@@ -1,7 +1,0 @@
-metrics.path:
-  country: lodz
-  app: marketing-offer-generator-lodz
-	
-server:
-  port: 9056
-

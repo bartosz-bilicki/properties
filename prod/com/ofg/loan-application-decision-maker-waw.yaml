@@ -1,7 +1,0 @@
-metrics.path:
-  country: waw
-  app: loan-application-decision-maker-waw
-	
-server:
-  port: 8055
-

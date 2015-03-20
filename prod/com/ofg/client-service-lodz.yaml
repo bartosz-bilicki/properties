@@ -1,7 +1,0 @@
-metrics.path:
-  country: lodz
-  app: client-service-lodz
-	
-server:
-  port: 9058
-
