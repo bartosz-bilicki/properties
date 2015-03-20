@@ -1,0 +1,7 @@
+metrics.path:
+  country: lodz
+  app: fraud-detection-service-lodz
+	
+server:
+  port: 9053
+

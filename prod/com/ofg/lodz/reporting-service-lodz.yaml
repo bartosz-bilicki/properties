@@ -1,0 +1,7 @@
+metrics.path:
+  country: lodz
+  app: reporting-service-lodz
+	
+server:
+  port: 9057
+
