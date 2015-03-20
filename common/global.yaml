@@ -1,3 +1,4 @@
+
 spring:
   jackson.deserialization.fail-on-unknown-properties: false
   groovy.template.check-template-location: false
@@ -5,3 +6,6 @@ spring:
 city.finding.service.url: "http://api.openweathermap.org/data/2.5/weather"
 
 request.payload.logging.maxlength: 2000
+
+graphite:
+  host: graphite.uservices.pl
