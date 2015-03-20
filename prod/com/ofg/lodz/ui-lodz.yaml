@@ -1,0 +1,7 @@
+metrics.path:
+  country: lodz
+  app: ui-lodz
+
+server:
+  port: 9052
+

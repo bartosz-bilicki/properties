@@ -1,0 +1,7 @@
+metrics.path:
+  country: waw
+  app: ui-waw
+
+server:
+  port: 8052
+
